@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="SavedNotes">Ваши земетки:</string>
+    <string name="description">Напишите что-нибудь...</string>
+    <string name="name">Заголовок</string>
+    <string name="saving">Сохранить</string>
+    <string name="back1">Назад</string>
+    <string name="update">Обновить</string>
+    <string name="deliter">Удалить</string>
+    <string name="testname">Пример заметки</string>
+    <string name="plus">+</string>
+    <string name="back">Назад</string>
+</resources>
